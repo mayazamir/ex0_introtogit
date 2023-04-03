@@ -1,5 +1,5 @@
-Favorite color: 
-Favorite food: 
-Favorite musician/band: 
-Favorite movie: 
-Requested grade in the course: 
+Favorite color: Light blue
+Favorite food: Pasta
+Favorite musician/band: Omer Adam
+Favorite movie: The hunger games
+Requested grade in the course: 100
